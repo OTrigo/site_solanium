@@ -835,6 +835,10 @@ footer span a:hover{
         width: 10px;
         margin-bottom: 20px;
     }
+
+    h2.title::after{
+        display: none;
+    }
     
 }
 
